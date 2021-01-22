@@ -1,32 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: amcohrs-oradoo # Your GitHub username
+repo: BPGH # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Pro Putt Systems
+    url: $SECRET_URL_PPS
+  - name: Loyal Toys
+    url: $SECRET_URL_LT
+  - name: Turf Innovations
+    url: $SECRET_URL_TI
+  - name: Pro Court Systems
+    url: $SECRET_URL_PCS
+  - name: Pro Backyard
+    url: $SECRET_URL_PB
+  - name: Carolina Custom Greens
+    url: $SECRET_URL_CCPG
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: bpgh.oradoo.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: BPGH Uptime Status
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /
