@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 298,
-    "timeDay": 237,
-    "timeWeek": 467,
-    "timeMonth": 292,
-    "timeYear": 298,
+    "time": 306,
+    "timeDay": 850,
+    "timeWeek": 560,
+    "timeMonth": 308,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2021-03-18": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 304,
-    "timeDay": 158,
-    "timeWeek": 455,
-    "timeMonth": 324,
-    "timeYear": 304,
+    "time": 307,
+    "timeDay": 516,
+    "timeWeek": 485,
+    "timeMonth": 330,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2021-03-18": 25
     }
@@ -45,17 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "turf-innovations",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 116,
-    "timeWeek": 434,
-    "timeMonth": 301,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
+    "time": 280,
+    "timeDay": 510,
+    "timeWeek": 476,
+    "timeMonth": 308,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2021-03-18": 54
+    }
   },
   {
     "name": "Pro Court Systems",
@@ -63,17 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pro-court-systems",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
     "time": 229,
-    "timeDay": 114,
-    "timeWeek": 172,
+    "timeDay": 222,
+    "timeWeek": 183,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-18": 54
+    }
   },
   {
     "name": "Pro Backyard",
@@ -81,17 +85,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pro-backyard",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 92,
-    "timeWeek": 302,
-    "timeMonth": 205,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
+    "time": 195,
+    "timeDay": 291,
+    "timeWeek": 326,
+    "timeMonth": 208,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2021-03-18": 54
+    }
   },
   {
     "name": "Carolina Custom Greens",
@@ -99,16 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "carolina-custom-greens",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 126,
-    "timeWeek": 400,
-    "timeMonth": 299,
-    "timeYear": 264,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
+    "time": 267,
+    "timeDay": 492,
+    "timeWeek": 441,
+    "timeMonth": 305,
+    "timeYear": 267,
+    "dailyMinutesDown": {
+      "2021-03-18": 54
+    }
   }
 ]
