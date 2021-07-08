@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pro-putt-systems",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
-    "time": 349,
-    "timeDay": 176,
-    "timeWeek": 412,
-    "timeMonth": 384,
-    "timeYear": 349,
+    "uptimeYear": "99.98%",
+    "time": 347,
+    "timeDay": 113,
+    "timeWeek": 402,
+    "timeMonth": 374,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2021-07-01": 30,
       "2021-03-18": 29
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 362,
-    "timeDay": 133,
-    "timeWeek": 344,
-    "timeMonth": 416,
-    "timeYear": 362,
+    "time": 361,
+    "timeDay": 214,
+    "timeWeek": 347,
+    "timeMonth": 388,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2021-07-01": 30,
       "2021-03-18": 25
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 351,
-    "timeDay": 180,
-    "timeWeek": 347,
-    "timeMonth": 403,
-    "timeYear": 351,
+    "time": 349,
+    "timeDay": 119,
+    "timeWeek": 339,
+    "timeMonth": 390,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2021-07-01": 30
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 185,
-    "timeDay": 93,
-    "timeWeek": 168,
-    "timeMonth": 160,
-    "timeYear": 185,
+    "time": 184,
+    "timeDay": 119,
+    "timeWeek": 169,
+    "timeMonth": 156,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2021-06-08": 30
     }
@@ -93,9 +93,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 135,
-    "timeWeek": 226,
-    "timeMonth": 231,
+    "timeDay": 147,
+    "timeWeek": 231,
+    "timeMonth": 228,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2021-07-01": 30
@@ -112,11 +112,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 331,
-    "timeDay": 188,
-    "timeWeek": 371,
-    "timeMonth": 359,
-    "timeYear": 331,
+    "time": 330,
+    "timeDay": 187,
+    "timeWeek": 373,
+    "timeMonth": 351,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2021-07-01": 30
     }
